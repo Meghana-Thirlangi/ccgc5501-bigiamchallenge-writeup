@@ -8,8 +8,7 @@ The goal of this challenge is to set up CloudFoxable, a Capture The Flag environ
 
 ## IAM Policy
 ```json
-copy and paste the IAM policy from the challenge here
-```
+
 {
     "Version": "2012-10-17",
     "Statement": [
